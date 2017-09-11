@@ -1,0 +1,31 @@
+Frågor:
+Vilka datatyper används för att lagra flyttal?
+Svar: float, double och decimal
+
+Vilken loop bör jag föredra när jag vill iterera genom en samling eller array?
+Svar: foreach loop
+
+Om jag ska skapa en meny med många val, vad är då enklast att använda mig av för att jämföra användarens inmatning med valen?
+Svar: använda en switch metod
+
+Hur beskriver man det här argumentet med ord? if (tal < 10 && tal > 0)
+Svar: om talet är mindre än 10 och större än 0
+
+Om jag behöver en variabel som håller värdet falskt, vilken datatyp måste jag använda då? Deklarera och tilldela den variabeln med valfritt namn.
+Svar: Datatypen är boolean, vilket håller värdet true eller false
+	myBoolean = true;
+
+Vad gör jag om jag nästlar någonting, exempelvis att jag nästlar en for-loop?
+Svar: Nästlar man en loop betyder det att man har en loop i en loop.
+
+Hur deklarerar man en tvådimensionell array?(Bara deklarera, ni behöver inte tilldela)
+Svar: (datatypen)[] (variable) = new (datatypen)[hur många värden ska vara i array]
+	Exempel:
+	int[] myArray = new int[69]
+
+Om jag har en if-sats med ett argument, men vill även kolla ett till argument, vad bör jag tillägga då?
+Svar: else if
+
+Vad händer här?	int minInteger = 5;
+		minInteger++;
+Svar: deklarerar en variabel och tilldelar den ett värde. Sedan adderar man den med 1. bokstavligen 5+1

@@ -25,7 +25,7 @@ namespace ConsoleApp1
             }
             foreach(int number in numbers) //skriver ut värdena från min lista
             {
-                Console.WriteLine(number);
+                Console.WriteLine(number); //kunde skrivas som Console.WriteLine(i) i den förra loopen, men okay
             }
 
             Console.WriteLine(" "); //nice space

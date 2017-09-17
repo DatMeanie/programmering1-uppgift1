@@ -40,7 +40,7 @@ namespace ConsoleApp1
             }
             else
             {
-                Console.WriteLine("Float är större än 4.5");
+                Console.WriteLine("Float är antingen större än 4.5 eller mellan 4 och 4.5");
             }
 
             Console.WriteLine(" "); //nice space yet again
